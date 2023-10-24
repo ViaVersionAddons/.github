@@ -24,4 +24,4 @@ projects to find the one that suits your exact needs.
 | Requires | Client                                                                        |
 
 
-Made by EnZaXD and all contributors with ❤️
+Made by all contributors with ❤️
