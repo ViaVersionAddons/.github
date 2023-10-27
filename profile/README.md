@@ -18,10 +18,10 @@ projects to find the one that suits your exact needs.
 
 ## Miscellaneous stuff
 
-|          | [Backwards extensions](https://github.com/ViaVersionAddons/ViaBackwards-Plus) | [LabyMod Integration](https://github.com/ViaVersionAddons/viaversion-addon) |
-|----------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| Feature  | Backports textures to enhance the ViaBackwards experience                     | Adds LabyMod support to ViaVersion                                          |
-| Requires | Client                                                                        | Either latest LabyMod v3 or v4                                              |
+|          | [Backwards extensions](https://github.com/ViaVersionAddons/ViaBackwards-Plus) | [LabyMod Integration](https://github.com/ViaVersionAddons/viaversion-addon) | [ViaVanillaPlus](https://github.com/ViaVersionAddons/ViaVanillaPlus)             |
+|----------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| Feature  | Backports textures to enhance the ViaBackwards experience                     | Adds LabyMod support to ViaVersion                                          | Handles protocol changes in Vanilla+ mods, intended as an addon to ViaFabricPlus |
+| Requires | Client                                                                        | Either latest LabyMod v3 or v4                                              | Fabric client + ViaFabric or ViaFabricPlus                                       |
 
 
 Made by all contributors with ❤️
