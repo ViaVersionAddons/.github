@@ -11,10 +11,10 @@ projects to find the one that suits your exact needs.
 
 ## Via addition plugins
 
-|          | [Smithing Support](https://github.com/ViaVersionAddons/AxSmithing) | [Potion fixer](https://github.com/ViaVersionAddons/ViaPotions)        | [VAF Paper](https://github.com/ViaVersionAddons/ViaAprilFoolsPaper) |
-|----------|--------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------| 
-| Feature  | Makes Smithing Tables work in all versions                         | Translates thrown potions for old clients                             | Paper platform implementation for ViaAprilFools                     |
-| Requires | Backend Server (Paper, Spigot, Bukkit)                             | Backend Server (Paper, Spigot, Bukkit) + ViaRewind or ProtocolSupport | Latest Paper and VV/VB + ViaAprilFools                              |
+|          | [Smithing Support](https://github.com/ViaVersionAddons/AxSmithing) | [Chat Fixer](https://github.com/ViaVersionAddons/ViaChatFixer)                       | [VAF Paper](https://github.com/ViaVersionAddons/ViaAprilFoolsPaper) |
+|----------|--------------------------------------------------------------------|--------------------------------------------------------------------------------------|---------------------------------------------------------------------| 
+| Feature  | Makes Smithing Tables work in all versions                         | Allow 1.11+ players to have longer chat messages on 1.8-1.10 servers with ViaVersion | Paper platform implementation for ViaAprilFools                     |
+| Requires | Backend Server (Paper, Spigot, Bukkit)                             | Backend Server (Paper, Spigot, Bukkit) + VV                                          | Latest Paper and VV/VB + ViaAprilFools                              |
 
 ## Miscellaneous stuff
 
