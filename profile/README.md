@@ -5,9 +5,9 @@ projects to find the one that suits your exact needs.
 
 ## ViaProxy plugins
 
-|         | [Geyser Bootstrap](https://github.com/ViaVersionAddons/ViaProxyGeyserPlugin) | [Multi Launch](https://github.com/ViaVersionAddons/ViaProxyMultiLaunch) | [No Local Connections](https://github.com/ViaVersionAddons/NoLocalConnections) | [RakNet Providers](https://github.com/ViaVersionAddons/ViaProxyRakNetProviders) |
-|---------|------------------------------------------------------------------------------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| Feature | Implements Geyser proxy to allow bedrock players                             | Launch another jar file in combination with ViaProxy                    | An example ViaProxy plugin denying connections to local servers                | Adds multiple alternative RakNet backends                                       |
+|         | [Multi Launch](https://github.com/ViaVersionAddons/ViaProxyMultiLaunch) | [No Local Connections](https://github.com/ViaVersionAddons/NoLocalConnections) | [RakNet Providers](https://github.com/ViaVersionAddons/ViaProxyRakNetProviders) |
+|---------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| Feature | Launch another jar file in combination with ViaProxy                    | An example ViaProxy plugin denying connections to local servers                | Adds multiple alternative RakNet backends                                       |
 
 ## Via addition plugins
 
