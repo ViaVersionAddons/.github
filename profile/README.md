@@ -5,9 +5,9 @@ projects to find the one that suits your exact needs.
 
 ## ViaProxy plugins
 
-|         | [Multi Launch](https://github.com/ViaVersionAddons/ViaProxyMultiLaunch) | [No Local Connections](https://github.com/ViaVersionAddons/NoLocalConnections) | [RakNet Providers](https://github.com/ViaVersionAddons/ViaProxyRakNetProviders) |
-|---------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| Feature | Launch another jar file in combination with ViaProxy                    | An example ViaProxy plugin denying connections to local servers                | Adds multiple alternative RakNet backends                                       |
+|         | [Multi Launch](https://github.com/ViaVersionAddons/ViaProxyMultiLaunch) | [No Local Connections](https://github.com/ViaVersionAddons/NoLocalConnections) | [RakNet Providers](https://github.com/ViaVersionAddons/ViaProxyRakNetProviders) | [Spark Integration](https://github.com/ViaVersionAddons/ViaProxySpark) |
+|---------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------|
+| Feature | Launch another jar file in combination with ViaProxy                    | An example ViaProxy plugin denying connections to local servers                | Adds multiple alternative RakNet backends                                       | ViaProxy plugin which implements the spark profiler                    |
 
 ## Via addition plugins
 
@@ -18,10 +18,10 @@ projects to find the one that suits your exact needs.
 
 ## Miscellaneous stuff
 
-|          | [Backwards extensions](https://github.com/ViaVersionAddons/ViaBackwards-Plus) | [LabyMod Integration](https://github.com/ViaVersionAddons/viaversion-addon) | [ViaVanillaPlus](https://github.com/ViaVersionAddons/ViaVanillaPlus)             |
-|----------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| Feature  | Backports textures to enhance the ViaBackwards experience                     | Adds LabyMod support to ViaVersion                                          | Handles protocol changes in Vanilla+ mods, intended as an addon to ViaFabricPlus |
-| Requires | Client                                                                        | Either latest LabyMod v3 or v4                                              | Fabric client + ViaFabric or ViaFabricPlus                                       |
+|          | [Backwards extensions](https://github.com/ViaVersionAddons/ViaBackwards-Plus) | [LabyMod Integration](https://github.com/ViaVersionAddons/viaversion-addon) | [ViaVanillaPlus](https://github.com/ViaVersionAddons/ViaVanillaPlus)             | [ProtocolSupportCompat](https://github.com/ViaVersionAddons/ProtocolSupportCompat) |
+|----------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| Feature  | Backports textures to enhance the ViaBackwards experience                     | Adds LabyMod support to ViaVersion                                          | Handles protocol changes in Vanilla+ mods, intended as an addon to ViaFabricPlus | Plugin to make ViaVersion run alongside ProtocolSupport                            |  
+| Requires | Client                                                                        | Either latest LabyMod v3 or v4                                              | Fabric client + ViaFabric or ViaFabricPlus                                       | ProtocolSupport                                                                    |
 
 
 Made by all contributors with ❤️
