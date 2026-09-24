@@ -33,4 +33,4 @@ projects to find the one that suits your exact needs.
 Made by all contributors with ❤️
 
 --------
-Managed by https://github.com/FlorianMichael, reach out to them if you want to join the organization or have any questions.
+Managed by https://github.com/florianreuth, reach out to them if you want to join the organization or have any questions.
